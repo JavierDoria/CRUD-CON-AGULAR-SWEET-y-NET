@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jjjja\\Desktop\\Angular y asp CRUD\\MiWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0543743-DF62-4A1B-9D9E-70D23935FBB9}|MiWebAPI\\MiWebAPI.csproj|c:\\users\\jjjja\\desktop\\angular y asp crud\\miwebapi\\miwebapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C0543743-DF62-4A1B-9D9E-70D23935FBB9}|MiWebAPI\\MiWebAPI.csproj|solutionrelative:miwebapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0543743-DF62-4A1B-9D9E-70D23935FBB9}|MiWebAPI\\MiWebAPI.csproj|c:\\users\\jjjja\\desktop\\angular y asp crud\\miwebapi\\miwebapi\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0543743-DF62-4A1B-9D9E-70D23935FBB9}|MiWebAPI\\MiWebAPI.csproj|solutionrelative:miwebapi\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0543743-DF62-4A1B-9D9E-70D23935FBB9}|MiWebAPI\\MiWebAPI.csproj|c:\\users\\jjjja\\desktop\\angular y asp crud\\miwebapi\\miwebapi\\entidades\\zapatillas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0543743-DF62-4A1B-9D9E-70D23935FBB9}|MiWebAPI\\MiWebAPI.csproj|solutionrelative:miwebapi\\entidades\\zapatillas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0543743-DF62-4A1B-9D9E-70D23935FBB9}|MiWebAPI\\MiWebAPI.csproj|c:\\users\\jjjja\\desktop\\angular y asp crud\\miwebapi\\miwebapi\\migrations\\20260430195006_tablazapatilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0543743-DF62-4A1B-9D9E-70D23935FBB9}|MiWebAPI\\MiWebAPI.csproj|solutionrelative:miwebapi\\migrations\\20260430195006_tablazapatilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0543743-DF62-4A1B-9D9E-70D23935FBB9}|MiWebAPI\\MiWebAPI.csproj|c:\\users\\jjjja\\desktop\\angular y asp crud\\miwebapi\\miwebapi\\controllers\\zapatillascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0543743-DF62-4A1B-9D9E-70D23935FBB9}|MiWebAPI\\MiWebAPI.csproj|solutionrelative:miwebapi\\controllers\\zapatillascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0543743-DF62-4A1B-9D9E-70D23935FBB9}|MiWebAPI\\MiWebAPI.csproj|c:\\users\\jjjja\\desktop\\angular y asp crud\\miwebapi\\miwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0543743-DF62-4A1B-9D9E-70D23935FBB9}|MiWebAPI\\MiWebAPI.csproj|solutionrelative:miwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ZapatillasController.cs",
+              "DocumentMoniker": "C:\\Users\\jjjja\\Desktop\\Angular y asp CRUD\\MiWebAPI\\MiWebAPI\\Controllers\\ZapatillasController.cs",
+              "RelativeDocumentMoniker": "MiWebAPI\\Controllers\\ZapatillasController.cs",
+              "ToolTip": "C:\\Users\\jjjja\\Desktop\\Angular y asp CRUD\\MiWebAPI\\MiWebAPI\\Controllers\\ZapatillasController.cs",
+              "RelativeToolTip": "MiWebAPI\\Controllers\\ZapatillasController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T19:57:13.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20260430195006_TablaZapatilla.cs",
+              "DocumentMoniker": "C:\\Users\\jjjja\\Desktop\\Angular y asp CRUD\\MiWebAPI\\MiWebAPI\\Migrations\\20260430195006_TablaZapatilla.cs",
+              "RelativeDocumentMoniker": "MiWebAPI\\Migrations\\20260430195006_TablaZapatilla.cs",
+              "ToolTip": "C:\\Users\\jjjja\\Desktop\\Angular y asp CRUD\\MiWebAPI\\MiWebAPI\\Migrations\\20260430195006_TablaZapatilla.cs",
+              "RelativeToolTip": "MiWebAPI\\Migrations\\20260430195006_TablaZapatilla.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T19:50:07.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Zapatillas.cs",
+              "DocumentMoniker": "C:\\Users\\jjjja\\Desktop\\Angular y asp CRUD\\MiWebAPI\\MiWebAPI\\Entidades\\Zapatillas.cs",
+              "RelativeDocumentMoniker": "MiWebAPI\\Entidades\\Zapatillas.cs",
+              "ToolTip": "C:\\Users\\jjjja\\Desktop\\Angular y asp CRUD\\MiWebAPI\\MiWebAPI\\Entidades\\Zapatillas.cs",
+              "RelativeToolTip": "MiWebAPI\\Entidades\\Zapatillas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T22:40:30.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jjjja\\Desktop\\Angular y asp CRUD\\MiWebAPI\\MiWebAPI\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MiWebAPI\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\jjjja\\Desktop\\Angular y asp CRUD\\MiWebAPI\\MiWebAPI\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MiWebAPI\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T22:33:28.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\jjjja\\Desktop\\Angular y asp CRUD\\MiWebAPI\\MiWebAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MiWebAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\jjjja\\Desktop\\Angular y asp CRUD\\MiWebAPI\\MiWebAPI\\appsettings.Development.json",
+              "RelativeToolTip": "MiWebAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-29T20:53:30.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jjjja\\Desktop\\Angular y asp CRUD\\MiWebAPI\\MiWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MiWebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\jjjja\\Desktop\\Angular y asp CRUD\\MiWebAPI\\MiWebAPI\\Program.cs",
+              "RelativeToolTip": "MiWebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T20:50:57.191Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
